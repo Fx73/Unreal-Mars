@@ -11,4 +11,5 @@ For now :
 - 2 Radios
 
 Release here :
-https://mods.paradoxplaza.com/mods/8853/Any
+</br>
+https://mods.paradoxplaza.com/mods/29985/Windows
